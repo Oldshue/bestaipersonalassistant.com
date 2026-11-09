@@ -1,0 +1,8 @@
+# Best AI Personal Assistant
+
+> Four-page site (ranked guide, pricing comparison, methodology, about) covering 10 real AI personal assistants. Rankings come from official vendor pages and help docs read on 2026-11-09. Top picks: ChatGPT overall, Gemini for Google users, Claude for complex work. Prices come from official pages. The ChatGPT and Perplexity pricing pages blocked automated reading, so those prices come from OpenAI's learn.chatgpt.com docs and from a sourced summary of Perplexity's help center. A version of lindyhq.com with the same name was found but left out. No hands-on testing is claimed.
+
+- [Best AI Personal Assistant (November 2026): 10 Picks Compared](https://bestaipersonalassistant.com/): The best AI personal assistant in November 2026: ChatGPT, Gemini and Claude lead, plus Copilot, Alexa+, Siri AI, Perplexity, Motion, Reclaim and Lindy, with real prices.
+- [AI Personal Assistant Pricing Compared (November 2026)](https://bestaipersonalassistant.com/pricing.html): Every plan price for ChatGPT, Gemini, Claude, Copilot, Alexa+, Perplexity, Motion, Reclaim and Lindy, taken from official pages on November 9, 2026.
+- [How We Ranked the Best AI Personal Assistants](https://bestaipersonalassistant.com/methodology.html): How Best AI Personal Assistant researched and ranked assistants: official documentation, current pricing and clear criteria. No hands-on testing is claimed.
+- [About Best AI Personal Assistant](https://bestaipersonalassistant.com/about.html): Best AI Personal Assistant is an independent research site that compares AI assistants using public, official sources. No sponsored rankings and no testing claims.
